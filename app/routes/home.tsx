@@ -28,7 +28,6 @@ const features = [
 ];
 
 export default function Home() {
-  const wrong =
   return (
     <>
       {/* Hero */}
